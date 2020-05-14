@@ -8,6 +8,7 @@ TagManager:
   - Fire
   - Fireworks group
   - FireWorks
+  - RemainingCoins
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - PostProcessing
+  - Minimap
   - 
   - 
   - 
